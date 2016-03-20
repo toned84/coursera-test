@@ -13,7 +13,7 @@ p {
 }
 
 .title {
-  float: right;
+  float: center;
   border: 1px solid black;
   
   font-size: 1.25em;

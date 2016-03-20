@@ -1,0 +1,19 @@
+#header-nav {
+	
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+
+body { padding-top: 70px; }
+
+#s1{
+  background-color: grey;
+}
+#s2{
+  background-color: red;
+  color: white;
+}
+#s3{
+  background-color: green;
+}
